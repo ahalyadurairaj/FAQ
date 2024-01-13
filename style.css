@@ -1,0 +1,30 @@
+
+
+#ques1{
+    width: 40%;
+    height: 80px;
+    background-color: rgb(208, 240, 240);
+    text-align: center;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24);
+}
+#ques2{
+    width: 40%;
+    height: 80px;
+    background-color: rgb(208, 240, 240);
+    text-align: center;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24);
+}
+#ques3{
+    width: 40%;
+    height: 80px;
+    background-color: rgb(208, 240, 240);
+    text-align: center;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24);
+}
+#heading{
+    text-align: center;
+    color: orange;
+}
+.height{
+    height: 180px;
+}
